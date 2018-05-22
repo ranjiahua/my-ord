@@ -1,0 +1,3 @@
+系统帐号信息  /etc/passwd
+密码信息　　　/etc/shadow 
+改变档案所属群组  chgrp
