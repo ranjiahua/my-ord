@@ -1,3 +1,15 @@
 1. mysql 开启严格模式
 2. 线上更新失败(智慧课堂)
 3. awk
+4. 依赖注入,控制反转 Plumber
+5. swoole
+6. socket.io
+7. vue.js
+8. 设计模式
+
+JWT  https://github.com/axetroy/blog/issues/177
+
+https://github.com/jimbojsb/bstools[beanstalkd]
+
+
+多进程多线程、Socket、IO复用、异步非阻塞,设计模式、算法、数据结构、分布式系统

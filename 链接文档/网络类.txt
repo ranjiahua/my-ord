@@ -5,3 +5,5 @@ https://blog.csdn.net/u012102536/article/details/61196646    [MySQL 中 delete ,
 
 https://www.cnblogs.com/lxxhome/p/5980615.html[socket.io方法]
 https://www.cnblogs.com/handongyu/p/6258128.html·[搭建即使通讯]
+
+https://github.com/ThinkDevelopers/PHPConChina/tree/master/PHPCON2018[大佬们的文档]
